@@ -2,8 +2,8 @@
 using namespace std;
 class prueba{
     public:
-        int dato1;
-        int dato2;
+        int dato3;
+        int dato4;
     prueba(int a,int b){
         this.dato1=a;
         this.dato2=b;
