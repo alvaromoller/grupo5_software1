@@ -1,7 +1,15 @@
-# Titulo del proyecto " Sistema de informacion, orientacion y ventas de computadoras "
+# Titulo del proyecto 
+" Sistema de informacion, orientacion y ventas de computadoras "
+Este Proyecto estara dirigido para orientar a todas las personas que requieran una computadora 
+ya que pudimos observar que muchas personas se ven confundidas y desorientadas al momento de buscar una computadora segun su necesidad. 
 
-Este Proyecto estara dirigido para orientar a todas las personas que requieran una computadora ya que pudimos observar que muchas personas se ven confundidas y desorientadas al momento de buscar una computadora segun su necesidad. 
-One Paragraph of project description goes here
+¿porque del proyecto?
+la creacion del sistema facilitara la comunicacion con los clientes proporcionando informacion de las diferentes computadoras y orientara que computadora es mejor para cada cliente segun su necesidad.
+
+¿beneficios?
+pretendemos que este sistema nos ayude a tener una mejor posicion competitiva dando un mejor servicio al cliente.
+tambien queremos que ayude al aumento de ventas de computadoras compartiendo la pagina en redes sociales.
+
 
 ## Getting Started
 
