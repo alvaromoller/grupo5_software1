@@ -1,5 +1,5 @@
 Integrantes:
-Luis Fernando Rodriguez Rodriguez
+Luis Fernando Rodriguez Rodriguez,  
 Alvaro Hernan Moller Lima
 # Titulo del proyecto " Sistema de informacion, orientacion y ventas de computadoras "
 
