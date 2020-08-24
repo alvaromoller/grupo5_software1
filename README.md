@@ -1,5 +1,6 @@
 Integrantes:
 Luis Fernando Rodriguez Rodriguez
+Alvaro Hernan Moller Lima
 # Titulo del proyecto " Sistema de informacion, orientacion y ventas de computadoras "
 
 Este Proyecto estara dirigido para orientar a todas las personas que requieran una computadora 
