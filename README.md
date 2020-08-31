@@ -26,27 +26,14 @@ Proponemos desarrollar un sistema de información que un soporte a las personas 
 Para esto utilizaremos plataformas web de tal forma que los usuarios puedan conectarse desde cualquiera de sus dispositivos, y encuentren información útil sobre computadoras y gadgets. 
 
 
+# Factibilidad tecnica
+Debido a la naturaleza del proyecto se decidio utilizar tecnologias web especificamente el framework angular y su uso se centrara en computadoras de escritorio por ende la demanda tecnologica del proyecto no representa tecnologia nueva.
+# Factibilidad economica
+Ya que somo un equipo de desarrollo conformado por 4 programadores, se podra llegar a un mvp sin mayores obstaculos, se incurrira en costos de mantenimiento unicamente en la fase de produccion, seran necesarios un hosting y un dominio propio, estos servicios son relativamente economicos por lo que la puesta en marcha del proyecto es factible al menos de momento. 
+# Factiblidad Organizacional
+Ya que este proyecto es para un negocio nuevo basado en el mismo la factibilidad organizacional ira enlzada al desarrollo y avanze del proyecto.
 # Patrocinador del proyecto (Project sponsor)
-El patrocinador del proyecto ""  está comprometido con cada fase del proyecto y sera la persona encargada de proporcionar apoyo y recursos para el exito del proyecto.
-El rol del patrocinador del proyecto se puede dividir en tres partes:
-- Visión
-- Gobernanza
-- Valores y beneficios
-
-    # Visión
-    * Alinea el proyecto con la estrategia, metas y objetivos del negocio.
-    * Permanece informado de los eventos del proyecto para mantener el proyecto viable.
-    * Define los criterios para el éxito del proyecto y cómo encaja con el negocio general.
-
-    # Gobernanza
-    * Obtiene recursos financieros.
-    * Se asegura que el proyecto inicie.
-    * Ofrece apoyo para el proyecto.
-
-    # Valores y beneficios
-    * Ayuda a garantizar el control y los procesos de revisión.
-    * Ayuda con la toma de decisiones.
-    * Evalúa el estado y el progreso.
+El proyecto sera financiado con recursos personales del equipo de desarrollo, se tiene planeado que una cantidad igual de gastos de dinero y tiempo entre los 4 miembros del equipo.
 
 # Necesidades del negocio (Business needs)
 La razon que impulsa el proyecto es de mejorar la atencion con el cliente brindando información sobre hardware y software de distintintas computadoras y sus precios de venta a todas las personas que busquen adquirir una computadora en nuestra pagina web. 
