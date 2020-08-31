@@ -27,7 +27,7 @@ Para esto utilizaremos plataformas web de tal forma que los usuarios puedan cone
 
 
 # Factibilidad tecnica
-Debido a la naturaleza del proyecto se decidió utilizar tecnologías web, específicamente el framework angular y su uso se centrará en computadoras de escritorio por ende la demanda tecnológica del proyecto no representa tecnología nueva. 
+Debido a la naturaleza del proyecto se decidió utilizar tecnologías web, específicamente el framework angular y su uso se centrará en computadoras de escritorio. Ya que se iniciara de forma lenta y progresiba no requiere demasiado. Pero a futuro (12 meses) se espera que soporte a las consultas de los usuarios de forma eficaz.
 # Factibilidad economica
 Ya que somo un equipo de desarrollo conformado por 4 programadores, se podrá llegar a un mvp sin mayores obstáculos, se incurrirá en costos de mantenimiento únicamente en la fase de producción, serán necesarios un hosting y un dominio propio, estos servicios son relativamente económicos por lo que la puesta en marcha del proyecto es factible al menos de momento. 
 # Factiblidad Organizacional
