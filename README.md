@@ -36,14 +36,16 @@ Ya que este proyecto es para un negocio nuevo basado en el mismo la factibilidad
 El proyecto será financiado con recursos personales del equipo de desarrollo, se tiene planeado destinar una cantidad igual de gastos en dinero y tiempo entre los 4 miembros del equipo. 
 
 # Necesidades del negocio (Business needs)
-La razon que impulsa el proyecto es de mejorar la atencion con el cliente brindando información sobre hardware y software de distintintas computadoras y sus precios de venta a todas las personas que busquen adquirir una computadora en nuestra pagina web. 
+La razon que impulsa el proyecto es de mejorar la atencion con el cliente brindando información sobre hardware y software de distintintas computadoras, ajustandose a las necesidades individuales de cada cliente y sus precios de venta a todas las personas que busquen adquirir una computadora en nuestra pagina web. 
 
 # Requisitos del negocio (Business Requirements)
-Usando la pagina web, las personas deberian poder ver una lista de computadoras a la venta con su respectiva informacion, tambien deberan ser capaces de buscar la computadora o laptop que prefieran en el buscador de la pagina, para tener una mejor orientacion sobre que computadora deberian comprar y podran llenar una pequeña encuesta la cual al finalizar mostrara una lista de computadoras que seran seleccionadas segun la necesidad de cada persona. 
+Usando la pagina web, las personas deberian poder ver una lista de computadoras a la venta con su respectiva informacion, tambien deberan ser capaces de buscar la computadora o laptop que prefieran en el buscador de la pagina, para tener una mejor orientacion sobre que computadora deberian comprar y podran llenar una pequeña encuesta la cual al finalizar mostrara una lista de computadoras que seran seleccionadas segun la necesidad de cada persona.
+El sistema debera recolectar informacion por medio de preguntas y seleciones de forma intuitiva enfoncandose en que sea de forma exhaustiva para asi dar las mejores opciones al cliente.
 
 # Valor del negocio (Business Value)
 Como grupo esperamos que nuestra pagina web brinde informacion de valor para todas las personas que busquen adquirir una computadora y asi poder proporcionar una mejor atencion al cliente.
 Esperamos que nuestro servicio reduzca dudas al momento de eleguir una computadora o laptop y pueda orientar mejor a las personas.
+Dara valor al negocio al ser la pagina pionera en el medio en ofrecer este servicio al las personas.
 
 # Aspectos a considerar (Special issues)
 Es posible que la popularidad de la pagina no crezca tan rapido como se espera porque la poblacion paceña aun no esta tan acostumbrada a estos metodos de compra, a pesar de la situación actual.
