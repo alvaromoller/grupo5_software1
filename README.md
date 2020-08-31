@@ -48,5 +48,8 @@ El rol del patrocinador del proyecto se puede dividir en tres partes:
 * Ayuda con la toma de decisiones.
 * Evalúa el estado y el progreso.
 
+# Necesidades del negocio (Business needs)
+La razon que impulsa el proyecto es de mejorar la atencion con el cliente brindando información sobre hardware y software de distintintas computadoras y sus precios de venta a todas las personas que busquen adquirir una computadora en nuestra pagina web. 
 
-
+# Requisitos del negocio (Business Requirements)
+Usando la pagina web, las personas deberian poder ver una lista de computadoras a la venta con su respectiva informacion, tambien deberan ser capaces de buscar la computadora o laptop que prefieran en el buscador de la pagina, para tener una mejor orientacion sobre que computadora deberian comprar podran llenar una pequeña encuesta la cual al finalizar mostrara una lista de computadoras que seran seleccionadas segun la necesidad de cada persona. 
