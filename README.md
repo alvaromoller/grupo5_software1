@@ -26,3 +26,27 @@ Proponemos desarrollar un sistema de información que un soporte a las personas 
 Para esto utilizaremos plataformas web de tal forma que los usuarios puedan conectarse desde cualquiera de sus dispositivos, y encuentren información útil sobre computadoras y gadgets. 
 
 
+# Patrocinador del proyecto (Project sponsor)
+El patrocinador del proyecto ""  está comprometido con cada fase del proyecto y sera la persona encargada de proporcionar apoyo y recursos para el exito del proyecto.
+El rol del patrocinador del proyecto se puede dividir en tres partes:
+- Visión
+- Gobernanza
+- Valores y beneficios
+
+# Visión
+* Alinea el proyecto con la estrategia, metas y objetivos del negocio.
+* Permanece informado de los eventos del proyecto para mantener el proyecto viable.
+* Define los criterios para el éxito del proyecto y cómo encaja con el negocio general.
+
+# Gobernanza
+* Obtiene recursos financieros.
+* Se asegura que el proyecto inicie.
+* Ofrece apoyo para el proyecto.
+
+# Valores y beneficios
+* Ayuda a garantizar el control y los procesos de revisión.
+* Ayuda con la toma de decisiones.
+* Evalúa el estado y el progreso.
+
+
+
