@@ -53,3 +53,7 @@ La razon que impulsa el proyecto es de mejorar la atencion con el cliente brinda
 
 # Requisitos del negocio (Business Requirements)
 Usando la pagina web, las personas deberian poder ver una lista de computadoras a la venta con su respectiva informacion, tambien deberan ser capaces de buscar la computadora o laptop que prefieran en el buscador de la pagina, para tener una mejor orientacion sobre que computadora deberian comprar podran llenar una pequeña encuesta la cual al finalizar mostrara una lista de computadoras que seran seleccionadas segun la necesidad de cada persona. 
+
+# Valor del negocio (Business Value)
+Como grupo esperamos que nuestra pagina web brinde informacion de valor para todas las personas que busquen adquirir una computadora y asi poder proporcionar una mejor atencion al cliente.
+Esperamos que nuestro servicio reduzca dudas al momento de eleguir una computadora o laptop y pueda orientar mejor a las personas.
