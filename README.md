@@ -33,27 +33,32 @@ El rol del patrocinador del proyecto se puede dividir en tres partes:
 - Gobernanza
 - Valores y beneficios
 
-# Visión
-* Alinea el proyecto con la estrategia, metas y objetivos del negocio.
-* Permanece informado de los eventos del proyecto para mantener el proyecto viable.
-* Define los criterios para el éxito del proyecto y cómo encaja con el negocio general.
+    # Visión
+    * Alinea el proyecto con la estrategia, metas y objetivos del negocio.
+    * Permanece informado de los eventos del proyecto para mantener el proyecto viable.
+    * Define los criterios para el éxito del proyecto y cómo encaja con el negocio general.
 
-# Gobernanza
-* Obtiene recursos financieros.
-* Se asegura que el proyecto inicie.
-* Ofrece apoyo para el proyecto.
+    # Gobernanza
+    * Obtiene recursos financieros.
+    * Se asegura que el proyecto inicie.
+    * Ofrece apoyo para el proyecto.
 
-# Valores y beneficios
-* Ayuda a garantizar el control y los procesos de revisión.
-* Ayuda con la toma de decisiones.
-* Evalúa el estado y el progreso.
+    # Valores y beneficios
+    * Ayuda a garantizar el control y los procesos de revisión.
+    * Ayuda con la toma de decisiones.
+    * Evalúa el estado y el progreso.
 
 # Necesidades del negocio (Business needs)
 La razon que impulsa el proyecto es de mejorar la atencion con el cliente brindando información sobre hardware y software de distintintas computadoras y sus precios de venta a todas las personas que busquen adquirir una computadora en nuestra pagina web. 
 
 # Requisitos del negocio (Business Requirements)
-Usando la pagina web, las personas deberian poder ver una lista de computadoras a la venta con su respectiva informacion, tambien deberan ser capaces de buscar la computadora o laptop que prefieran en el buscador de la pagina, para tener una mejor orientacion sobre que computadora deberian comprar podran llenar una pequeña encuesta la cual al finalizar mostrara una lista de computadoras que seran seleccionadas segun la necesidad de cada persona. 
+Usando la pagina web, las personas deberian poder ver una lista de computadoras a la venta con su respectiva informacion, tambien deberan ser capaces de buscar la computadora o laptop que prefieran en el buscador de la pagina, para tener una mejor orientacion sobre que computadora deberian comprar y podran llenar una pequeña encuesta la cual al finalizar mostrara una lista de computadoras que seran seleccionadas segun la necesidad de cada persona. 
 
 # Valor del negocio (Business Value)
 Como grupo esperamos que nuestra pagina web brinde informacion de valor para todas las personas que busquen adquirir una computadora y asi poder proporcionar una mejor atencion al cliente.
 Esperamos que nuestro servicio reduzca dudas al momento de eleguir una computadora o laptop y pueda orientar mejor a las personas.
+
+# Aspectos a considerar (Special issues)
+Es posible que la popularidad de la pagina no crezca tan rapido como se espera porque la poblacion paceña aun no esta tan acostumbrada a estos metodos de compra, a pesar de la situación actual.
+Es posible que no todas las tiendas de tecnología quieran sumarse a este emprendimiento por temas de confianza o por querer mantener una clientela ya adquirida.
+
