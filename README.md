@@ -62,3 +62,10 @@ Esperamos que nuestro servicio reduzca dudas al momento de eleguir una computado
 Es posible que la popularidad de la pagina no crezca tan rapido como se espera porque la poblacion paceña aun no esta tan acostumbrada a estos metodos de compra, a pesar de la situación actual.
 Es posible que no todas las tiendas de tecnología quieran sumarse a este emprendimiento por temas de confianza o por querer mantener una clientela ya adquirida.
 
+# Análisis de factibilidad (Feasibility analisis)
+    # Factibilidad tecnica (Techincal feasibility)
+
+    # Factibilidad economica (Economic fasibility)
+    Segun la inversión que se pueda obtener, el proyecto tendrá  una mayor factibilidad económica.
+    # Factibilidad organizacional (Organizational feasibility)
+    El proyecto cuenta con las personas necesarias para realizarlo y poder completarlo delegando las partes a trabajar a los integrantes.
