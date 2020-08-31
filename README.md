@@ -27,13 +27,13 @@ Para esto utilizaremos plataformas web de tal forma que los usuarios puedan cone
 
 
 # Factibilidad tecnica
-Debido a la naturaleza del proyecto se decidio utilizar tecnologias web especificamente el framework angular y su uso se centrara en computadoras de escritorio por ende la demanda tecnologica del proyecto no representa tecnologia nueva.
+Debido a la naturaleza del proyecto se decidió utilizar tecnologías web, específicamente el framework angular y su uso se centrará en computadoras de escritorio por ende la demanda tecnológica del proyecto no representa tecnología nueva. 
 # Factibilidad economica
-Ya que somo un equipo de desarrollo conformado por 4 programadores, se podra llegar a un mvp sin mayores obstaculos, se incurrira en costos de mantenimiento unicamente en la fase de produccion, seran necesarios un hosting y un dominio propio, estos servicios son relativamente economicos por lo que la puesta en marcha del proyecto es factible al menos de momento. 
+Ya que somo un equipo de desarrollo conformado por 4 programadores, se podrá llegar a un mvp sin mayores obstáculos, se incurrirá en costos de mantenimiento únicamente en la fase de producción, serán necesarios un hosting y un dominio propio, estos servicios son relativamente económicos por lo que la puesta en marcha del proyecto es factible al menos de momento. 
 # Factiblidad Organizacional
-Ya que este proyecto es para un negocio nuevo basado en el mismo la factibilidad organizacional ira enlzada al desarrollo y avanze del proyecto.
+Ya que este proyecto es para un negocio nuevo basado en el mismo la factibilidad organizacional, ira enlazada al desarrollo y avance del proyecto. 
 # Patrocinador del proyecto (Project sponsor)
-El proyecto sera financiado con recursos personales del equipo de desarrollo, se tiene planeado que una cantidad igual de gastos de dinero y tiempo entre los 4 miembros del equipo.
+El proyecto será financiado con recursos personales del equipo de desarrollo, se tiene planeado destinar una cantidad igual de gastos en dinero y tiempo entre los 4 miembros del equipo. 
 
 # Necesidades del negocio (Business needs)
 La razon que impulsa el proyecto es de mejorar la atencion con el cliente brindando información sobre hardware y software de distintintas computadoras y sus precios de venta a todas las personas que busquen adquirir una computadora en nuestra pagina web. 
@@ -48,11 +48,3 @@ Esperamos que nuestro servicio reduzca dudas al momento de eleguir una computado
 # Aspectos a considerar (Special issues)
 Es posible que la popularidad de la pagina no crezca tan rapido como se espera porque la poblacion paceña aun no esta tan acostumbrada a estos metodos de compra, a pesar de la situación actual.
 Es posible que no todas las tiendas de tecnología quieran sumarse a este emprendimiento por temas de confianza o por querer mantener una clientela ya adquirida.
-
-# Análisis de factibilidad (Feasibility analisis)
-    # Factibilidad tecnica (Techincal feasibility)
-
-    # Factibilidad economica (Economic fasibility)
-    Segun la inversión que se pueda obtener, el proyecto tendrá  una mayor factibilidad económica.
-    # Factibilidad organizacional (Organizational feasibility)
-    El proyecto cuenta con las personas necesarias para realizarlo y poder completarlo delegando las partes a trabajar a los integrantes.
