@@ -20,10 +20,6 @@ pretendemos que este sistema nos ayude a tener una mejor posicion competitiva da
 tambien queremos que ayude al aumento de ventas de computadoras compartiendo la pagina en redes sociales.Presentara un servicio nuevo en mercado que ayudara a las personas que necesitan una computadora pero no tienen nociones sobre los componentes.
 
 # Propuesta
-Proponemos desarrollar un sistema de información que un soporte a las personas en la elección de tecnologías productos tecnológicos. 
-![](ejemplo.png)
-
-Para esto utilizaremos plataformas web de tal forma que los usuarios puedan conectarse desde cualquiera de sus dispositivos, y encuentren información útil sobre computadoras y gadgets. 
 
 
 # Factibilidad tecnica
